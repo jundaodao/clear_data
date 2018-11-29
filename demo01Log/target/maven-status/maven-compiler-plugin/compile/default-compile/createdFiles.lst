@@ -1,0 +1,15 @@
+cn\itcast\bigdata\weblog\clickstream\pageview\ClickStreamPageViewMapper.class
+cn\itcast\bigdata\weblog\clickstream\pageview\vist\ClickStreamVistMapper.class
+cn\itcast\bigdata\weblog\utils\DateUtil.class
+cn\itcast\bigdata\weblog\pre\WebLogPreProcessMain.class
+cn\itcast\bigdata\weblog\clickstream\pageview\vist\ClickStreamVistMain.class
+cn\itcast\bigdata\weblog\pre\WebLogPase.class
+cn\itcast\bigdata\weblog\clickstream\pageview\vist\ClickStreamVistReduce.class
+cn\itcast\bigdata\weblog\mrbean\WebLogBean.class
+cn\itcast\bigdata\weblog\pre\WebLogPreProcessMapper.class
+cn\itcast\bigdata\weblog\mrbean\PageVistBean.class
+cn\itcast\bigdata\weblog\clickstream\pageview\ClickStreamPageViewReduce$1.class
+cn\itcast\bigdata\weblog\clickstream\pageview\vist\ClickStreamVistReduce$1.class
+cn\itcast\bigdata\weblog\mrbean\VistBean.class
+cn\itcast\bigdata\weblog\clickstream\pageview\ClickStreamPageViewReduce.class
+cn\itcast\bigdata\weblog\clickstream\pageview\ClickStremPageViewMain.class
